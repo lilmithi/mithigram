@@ -18,7 +18,7 @@ function Home() {
   }, []);
   function handleSearch(search) {
     setSearch(search); 
-  }
+  } 
   const displayedPosts = users.filter((user) =>
     user.userName.toLowerCase().includes(search.toLowerCase())
   );
