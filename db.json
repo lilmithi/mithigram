@@ -1,0 +1,112 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "userName": "Martinnn",
+      "profileImg": "https://media.istockphoto.com/photos/portrait-of-handsome-latino-african-man-picture-id1007763808?k=20&m=1007763808&s=612x612&w=0&h=q4qlV-99EK1VHePL1-Xon4gpdpK7kz3631XK4Hgr1ls=",
+      "postAddress": [
+        {
+          "id": 1000,
+          "imgAddress": "https://wallpaperaccess.com/full/154009.jpg",
+          "likes": 24,
+          "comments": ["littt!!", "cool cat", "love it", "woooo", "heyy"]
+        },
+        {
+          "id": 1001,
+          "imgAddress": "https://wallpapers.com/images/hd/cool-neon-sports-car-fhdc6msds7e7d5cb.jpg",
+          "likes": 673,
+          "comments": ["I just can't!!!", "This is just cooool", "oooo"]
+        }
+      ],
+      "followers": 34442,
+      "following": 250
+    },
+    {
+      "id": 2,
+      "userName": "mel_123",
+      "profileImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfq63x9q9rQHVbLQVcuIDh1C_YbP39s8fwfQ&usqp=CAU",
+      "postAddress": [
+        {
+          "id": 1003,
+          "imgAddress": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQigqO48O6AHTtNXPHB5hcJYSQX8ShEd-rQ5w&usqp=CAU",
+          "likes": 18,
+          "comments": ["awesome", "loooollll", "looking goood"]
+        },
+        {
+          "id": 1004,
+          "imgAddress": "https://media.istockphoto.com/photos/portrait-of-a-young-couple-in-the-street-picture-id1213297910?b=1&k=20&m=1213297910&s=170667a&w=0&h=SyexRAXUO-BcxD9NwaDh5ZPTjBbl3qkiKyGU3LqvFqw=",
+          "likes": 12,
+          "comments": ["woww", "amazing", ":)"]
+        },
+        {
+          "id": 1005,
+          "imgAddress": "https://pbs.twimg.com/profile_images/867703104061546498/Fn432rGr_400x400.jpg",
+          "likes": 177,
+          "comments": ["eiiiish", "not bad ;)", "Love the gray"]
+        }
+      ],
+      "followers": 312,
+      "following": 25
+    },
+    {
+      "userName": "Monique",
+      "profileImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW82Ia_YhNzUXZUiK8CjKRbboO4DoqRFN1-Q&usqp=CAU",
+      "postAddress": [
+        {
+          "id": "3b062afd-61ca-45f2-b4d5-f1af38b44096",
+          "imgAddress": "https://p4.wallpaperbetter.com/wallpaper/1012/467/764/cool-girl-wallpaper-preview.jpg",
+          "likes": 3,
+          "comments": ["cool glasses"]
+        }
+      ],
+      "followers": 22,
+      "following": 550,
+      "id": 3
+    },
+    {
+      "userName": "Jason_22",
+      "profileImg": "https://live.staticflickr.com/5248/5278243173_49cfcc8d48_b.jpg",
+      "postAddress": [
+        {
+          "id": "05ca70d0-f9d9-4db4-8969-6640d787c497",
+          "imgAddress": "https://www.lutontoday.co.uk/images-o.jpimedia.uk/imagefetch/http://www.dunstabletoday.co.uk/webimage/Prestige.Item.1.91017424!image/image.jpg?width=640&quality=65&smart&enable=upscale",
+          "likes": 3,
+          "comments": ["looking freshhhh"]
+        }
+      ],
+      "followers": 47530,
+      "following": 48302,
+      "id": 4
+    },
+    {
+      "userName": "kiraaa",
+      "profileImg": "https://i.stack.imgur.com/8qZh9.jpg",
+      "postAddress": [
+        {
+          "id": "e1100c6a-78aa-46ee-9b40-3d31b1d9bbae",
+          "imgAddress": "https://developers.elementor.com/docs/assets/img/elementor-placeholder-image.png",
+          "likes": 5,
+          "comments": []
+        }
+      ],
+      "followers": 50910,
+      "following": 384,
+      "id": 5
+    },
+    {
+      "userName": "jimmy33",
+      "profileImg": "https://www.esafety.gov.au/sites/default/files/2019-08/Remove%20images%20and%20video.jpg",
+      "postAddress": [
+        {
+          "id": "80b43509-ebf0-49fa-8291-0e749d1f8151",
+          "imgAddress": "https://images.hgmsites.net/sml/2021-chevrolet-corvette_100772231_s.jpg",
+          "likes": 13,
+          "comments": ["noiceee car"]
+        }
+      ],
+      "followers": 71059,
+      "following": 18206,
+      "id": 6
+    }
+  ]
+}
