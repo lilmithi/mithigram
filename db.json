@@ -8,14 +8,25 @@
         {
           "id": 1000,
           "imgAddress": "https://wallpaperaccess.com/full/154009.jpg",
-          "likes": 24,
-          "comments": ["littt!!", "cool cat", "love it", "woooo", "heyy"]
+          "likes": 25,
+          "comments": [
+            "littt!!",
+            "cool cat",
+            "love it",
+            "woooo",
+            "heyy",
+            "proprr"
+          ]
         },
         {
           "id": 1001,
           "imgAddress": "https://wallpapers.com/images/hd/cool-neon-sports-car-fhdc6msds7e7d5cb.jpg",
           "likes": 673,
-          "comments": ["I just can't!!!", "This is just cooool", "oooo"]
+          "comments": [
+            "I just can't!!!",
+            "This is just cooool",
+            "oooo"
+          ]
         }
       ],
       "followers": 34442,
@@ -30,19 +41,31 @@
           "id": 1003,
           "imgAddress": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQigqO48O6AHTtNXPHB5hcJYSQX8ShEd-rQ5w&usqp=CAU",
           "likes": 18,
-          "comments": ["awesome", "loooollll", "looking goood"]
+          "comments": [
+            "awesome",
+            "loooollll",
+            "looking goood"
+          ]
         },
         {
           "id": 1004,
           "imgAddress": "https://media.istockphoto.com/photos/portrait-of-a-young-couple-in-the-street-picture-id1213297910?b=1&k=20&m=1213297910&s=170667a&w=0&h=SyexRAXUO-BcxD9NwaDh5ZPTjBbl3qkiKyGU3LqvFqw=",
           "likes": 12,
-          "comments": ["woww", "amazing", ":)"]
+          "comments": [
+            "woww",
+            "amazing",
+            ":)"
+          ]
         },
         {
           "id": 1005,
           "imgAddress": "https://pbs.twimg.com/profile_images/867703104061546498/Fn432rGr_400x400.jpg",
           "likes": 177,
-          "comments": ["eiiiish", "not bad ;)", "Love the gray"]
+          "comments": [
+            "eiiiish",
+            "not bad ;)",
+            "Love the gray"
+          ]
         }
       ],
       "followers": 312,
@@ -56,7 +79,9 @@
           "id": "3b062afd-61ca-45f2-b4d5-f1af38b44096",
           "imgAddress": "https://p4.wallpaperbetter.com/wallpaper/1012/467/764/cool-girl-wallpaper-preview.jpg",
           "likes": 3,
-          "comments": ["cool glasses"]
+          "comments": [
+            "cool glasses"
+          ]
         }
       ],
       "followers": 22,
@@ -71,7 +96,9 @@
           "id": "05ca70d0-f9d9-4db4-8969-6640d787c497",
           "imgAddress": "https://www.lutontoday.co.uk/images-o.jpimedia.uk/imagefetch/http://www.dunstabletoday.co.uk/webimage/Prestige.Item.1.91017424!image/image.jpg?width=640&quality=65&smart&enable=upscale",
           "likes": 3,
-          "comments": ["looking freshhhh"]
+          "comments": [
+            "looking freshhhh"
+          ]
         }
       ],
       "followers": 47530,
@@ -101,7 +128,9 @@
           "id": "80b43509-ebf0-49fa-8291-0e749d1f8151",
           "imgAddress": "https://images.hgmsites.net/sml/2021-chevrolet-corvette_100772231_s.jpg",
           "likes": 13,
-          "comments": ["noiceee car"]
+          "comments": [
+            "noiceee car"
+          ]
         }
       ],
       "followers": 71059,
