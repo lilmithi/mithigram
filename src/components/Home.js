@@ -23,7 +23,7 @@ function Home() {
     user.userName.toLowerCase().includes(search.toLowerCase())
   );   
  
-  return (
+  return ( 
     <div className="home-main">
       <Navbar handleSearch={handleSearch} />
       <Stories />
