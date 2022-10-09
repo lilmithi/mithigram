@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/mithigram/static/css/main.e6a3d682.css",
-    "main.js": "/mithigram/static/js/main.d7e4f3be.js",
-    "index.html": "/mithigram/index.html",
-    "main.e6a3d682.css.map": "/mithigram/static/css/main.e6a3d682.css.map",
-    "main.d7e4f3be.js.map": "/mithigram/static/js/main.d7e4f3be.js.map"
+    "main.css": "/static/css/main.e6a3d682.css",
+    "main.js": "/static/js/main.d7e4f3be.js",
+    "index.html": "/index.html",
+    "main.e6a3d682.css.map": "/static/css/main.e6a3d682.css.map",
+    "main.d7e4f3be.js.map": "/static/js/main.d7e4f3be.js.map"
   },
   "entrypoints": [
     "static/css/main.e6a3d682.css",
