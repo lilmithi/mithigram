@@ -22,7 +22,7 @@ function Home() {
   const displayedPosts = users.filter((user) =>
     user.userName.toLowerCase().includes(search.toLowerCase())
   );      
-       
+        
   return ( 
     <div className="home-main">
       <Navbar handleSearch={handleSearch} />
