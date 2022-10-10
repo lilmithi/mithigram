@@ -47,6 +47,7 @@ function Postform() {
       const response = await promise.json();
       return response;
     }
+    document.getElementById("postForm").reset();
   }
   return (
     <>
@@ -56,7 +57,7 @@ function Postform() {
           <div className="post-form-title">
             <span>Mithi</span>gram
           </div>
-          <form onSubmit={(e) => handleFormPost(e)}>
+          <form id="postForm" onSubmit={(e) => handleFormPost(e)}>
             <div className="formLabelsInputs">
               <div className="postUserNameDiv">
                 <label htmlFor="postUserName">Username</label>
