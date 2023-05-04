@@ -2,7 +2,7 @@ import React from "react";
 
 function Card({ users }) {
   function patchLikes(e, userId, postId, user) {
-    addLikes(`http://localhost:3000/users/${userId}`).then((resp) => {
+    addLikes(`http://localhost:4000/users/${userId}`).then((resp) => {
       console.log(resp);
       // eslint-disable-next-line
       user.postAddress.map((requiredPost) => {
@@ -38,7 +38,7 @@ function Card({ users }) {
   function handleComments(userId, postId, commentDiv, user) {
     const inputComment = document.getElementById(postId).value;
     const commentsContainer = document.getElementById(commentDiv);
-    addComments(`http://localhost:3000/users/${userId}`).then((resp) => {
+    addComments(`http://localhost:4000/users/${userId}`).then((resp) => {
       // eslint-disable-next-line
       user.postAddress.map((requiredPost) => {
         if (`${requiredPost.id}comment` === postId) {

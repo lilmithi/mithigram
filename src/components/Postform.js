@@ -19,7 +19,7 @@ function Postform() {
     const userName = document.getElementById("postUserName").value;
     const profileAddress = document.getElementById("profileImageAddress").value;
     const postAddress = document.getElementById("postImageAddress").value;
-    postForm("http://localhost:3000/users").then((resp) => {
+    postForm("http://localhost:4000/users").then((resp) => {
       console.log("resp: ", resp);
     });
     async function postForm(url) {

@@ -5,7 +5,7 @@ function Explore() {
   const [images, setImages] = useState([]);
 
   useEffect(() => {
-    getImages("http://localhost:3000/users").then((resp) => {
+    getImages("http://localhost:4000/users").then((resp) => {
       const imageArr = resp.map((user) => {
         return user.postAddress.map((post) => post.imgAddress);
       });

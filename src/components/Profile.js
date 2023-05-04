@@ -4,7 +4,7 @@ import Navbar from "./Navbar";
 function Profile() {
   const [users, setUsers] = useState([]);
   useEffect(() => {
-    getUsers("http://localhost:3000/users").then((resp) => {
+    getUsers("http://localhost:4000/users").then((resp) => {
       setUsers(resp);
     });
     async function getUsers(url) {
